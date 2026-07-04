@@ -1,2 +1,5 @@
-# octave-univille
-Chemical project that represents a Octave in code (Univille project).
+# Trabalho de Química - Octave
+
+Uma passagem de gases de exaustão tem uma seção transversal quadrada com 300 mm de lado. As paredes são construídas de tijolo refratário com 150 mm de espessura com condutividade térmica 0,85 W/(m · K) e difusividade térmica α = 5,5 × 10−7 m2/s. Inicialmente, sem escoamento dos gases, as paredes estão a uma temperatura uniforme de 25 °C.  A superfície interna é subitamente exposta a gases quentes a 350 °C com um coeficiente de convecção de 100 W/(m2 · K), enquanto a superfície externa está em contato com ar a 25 °C com um coeficiente de convecção de 5 W/(m2 · K).
+
+Usando o método de diferenças fintas na forma implícita 2D com um espaçamento da malha de 50 mm e um incremento temporal de 30 segundos, determine a distribuição de temperaturas na parede e a taxa de calor perdida por convecção para o exterior em 5, 10, 50 e 100 h depois da introdução dos gases quentes.
